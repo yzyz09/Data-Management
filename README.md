@@ -10,6 +10,8 @@ manager (which you will continue working on in part 2 of the project) on top of 
 basic paged file system. This document aims at providing you with the necessary 
 information required to start project 1.
 
+In Project 2, you will continue implementing the record-based file manager (RBFM) that you started in project 1. In addition, you will implement a relation manager (RM) on top of the basic record-based file system. 
+
 Goal ：
 
 The goal of project 1 is threefold:
